@@ -36,21 +36,21 @@ Status  : Building projects · Open to opportunities
 
 ## 🛠️ Projects
 
+### 🛡️ [AI Security Scanner — GitHub Action](https://github.com/tahahahaa/ai-security-scanner)
+> A GitHub Action that automatically scans every Pull Request for OWASP Top 10 vulnerabilities using AI — posts detailed security reports as PR comments.
+- Detects SQL injection, XSS, hardcoded secrets, command injection, path traversal and more
+- Triggers automatically on every PR — zero manual effort required
+- Posts findings with line references and fix recommendations directly on the PR
+- `Python` `GitHub Actions` `Groq AI` `OWASP Top 10` `DevSecOps`
+
+---
+
 ### 🔐 [CipherCheck — Password Security Analyzer](https://github.com/tahahahaa/ciphercheck)
 > A real-time password strength analyzer with entropy calculation, GPU crack time estimation, and breach database detection.
 - Calculates Shannon entropy and character set analysis
 - Estimates crack time against GPU brute force (100B guesses/sec)
 - Checks against known breach databases — **100% client-side, zero data transmitted**
 - `HTML` `CSS` `JavaScript` `Cryptography Concepts`
-
----
-
-### 🛡️ [Amaan (اَمان) — Pakistan Emergency App](https://github.com/tahahahaa/amaan)
-> An offline-first emergency survival PWA built specifically for Pakistan — maps, protocols, family coordination.
-- Interactive map with GPS, rally points, hospital locations
-- Emergency protocols for airstrikes, floods, chemical attacks
-- Works fully offline after first load
-- `HTML` `CSS` `JavaScript` `MapLibre GL` `PWA`
 
 ---
 
