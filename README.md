@@ -36,6 +36,18 @@ Status  : Building projects · Open to opportunities
 
 ## 🛠️ Projects
 
+### 🛡️ [PhishGuard — AI Phishing Email Analyzer](https://github.com/tahahahaa/phishguard)
+
+> A forensic-grade, client-side phishing detection tool that analyzes raw email headers, URLs, and psychological triggers in real-time — all without any data leaving the browser.
+
+* **7 Forensic Modules** – Sequential analysis of SPF/DKIM/DMARC headers, sender spoofing, URL brand impersonation, and attachment risk.
+* **AI Deep Reasoning** – Integrates Groq (LLaMA-3) to provide a structured forensic verdict and threat assessment based on module findings.
+* **MITRE ATT&CK Mapping** – Automatically maps detected email behaviors to professional security frameworks (T1566, T1036, etc.).
+* **Zero-Knowledge Privacy** – Built with pure Vanilla JS and localStorage; features zero tracking and no backend transmission.
+* `HTML5` `CSS3` `Vanilla JS` `Groq AI` `MITRE ATT&CK` `Cybersecurity`
+
+ ---
+
 ### 🛡️ [AI Security Scanner — GitHub Action](https://github.com/tahahahaa/ai-security-scanner)
 > A GitHub Action that automatically scans every Pull Request for OWASP Top 10 vulnerabilities using AI — posts detailed security reports as PR comments.
 - Detects SQL injection, XSS, hardcoded secrets, command injection, path traversal and more
